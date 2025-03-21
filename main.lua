@@ -1,6 +1,6 @@
-package.path = package.path .. ";C:/?.lua"
+package.path = package.path .. ";./?.lua"
 
-local fs = require "Lualib.wst.fs"
+local fs = require "wst.fs"
 
 
 local last_sentence_display_time = 1 --sec
