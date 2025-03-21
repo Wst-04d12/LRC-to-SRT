@@ -1,3 +1,7 @@
+--------------------------------------------------------------
+--        Copyright © wst.pub, All Rights Reserved.         --
+--------------------------------------------------------------
+
 package.path = package.path .. ";./?.lua"
 
 local fs = require "wst.fs"
